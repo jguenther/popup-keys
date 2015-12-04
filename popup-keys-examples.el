@@ -197,7 +197,7 @@
             ("s" "create tag"          vc-create-tag)
             ("r" "revert to tag"       vc-retrieve-tag)
 
-            ("g" "annotate w/revs"     vc-annotate)
+            ("g" "annotate w/revs"     magit-annotate)
             ("l" "log fileset"         vc-print-log)
             ("L" "log repository"      vc-print-root-log)
             ("I" "log incoming"        vc-log-incoming)
